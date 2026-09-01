@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://needaitool.github.io/awesome-ai-tools-directory/sitemap.xml
