@@ -39,6 +39,7 @@ Autonomous AI agents capable of multi-step planning, tool-calling, web browsing,
 | **[CrewAI](https://www.crewai.com)** | Multi-Agent System | Open Source / Freemium | Orchestrating autonomous role-playing AI agent crews | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[Dify.AI](https://dify.ai)** | Agent Platform | Open Source / SaaS | Visual LLM application & agent workflow development | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[AutoGPT](https://autogpt.co)** | Autonomous Agent | Open Source | Continuous goal-driven autonomous task execution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[Solgrok](https://lmajster.github.io/sgrok/)** | Autonomous Agent | Open Source | 24/7 Solana creator-ops promo + Bags.fm fee claim/sweep | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[Devin by Cognition](https://www.cognition.ai)** | Software Engineer Agent | Paid | End-to-end autonomous software development and PR resolution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 
 👉 *Browse all [**Top Agent AI Tools & Frameworks on NeedAITool.com**](https://www.needaitool.com/categories/agent-ai).*
