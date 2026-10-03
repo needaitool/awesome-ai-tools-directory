@@ -35,11 +35,12 @@ Autonomous AI agents capable of multi-step planning, tool-calling, web browsing,
 
 | Tool | Category | Pricing | Best For | Directory Profile |
 | :--- | :--- | :--- | :--- | :--- |
-| **[LangChain](https://www.langchain.com)** | Agent Framework | Open Source | Building context-aware multi-agent applications & chains | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
-| **[CrewAI](https://www.crewai.com)** | Multi-Agent System | Open Source / Freemium | Orchestrating autonomous role-playing AI agent crews | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
-| **[Dify.AI](https://dify.ai)** | Agent Platform | Open Source / SaaS | Visual LLM application & agent workflow development | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[AutoGPT](https://autogpt.co)** | Autonomous Agent | Open Source | Continuous goal-driven autonomous task execution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[CrewAI](https://www.crewai.com)** | Multi-Agent System | Open Source / Freemium | Orchestrating autonomous role-playing AI agent crews | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[Devin by Cognition](https://www.cognition.ai)** | Software Engineer Agent | Paid | End-to-end autonomous software development and PR resolution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[Dify.AI](https://dify.ai)** | Agent Platform | Open Source / SaaS | Visual LLM application & agent workflow development | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[LangChain](https://www.langchain.com)** | Agent Framework | Open Source | Building context-aware multi-agent applications & chains | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[Tale](https://tale.dev)** | Agent Workspace | Open Source / Paid Managed | Shared project tasks, manager-agent delegation, persistent sandboxes, and human review | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 
 👉 *Browse all [**Top Agent AI Tools & Frameworks on NeedAITool.com**](https://www.needaitool.com/categories/agent-ai).*
 
