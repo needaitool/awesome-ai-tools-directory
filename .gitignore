@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# --- Agentic Workspace Overrides ---
+# Large Media & Archives
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.flv
+*.webm
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.iso
+*.bin
+*.dmg
+NeedAITool_Traffic_Verification_Semrush.pdf
+
+# Agent Generated & Scratch Data
+.gemini/
+brain/
+scratch_*.mjs
+scratch_*.js
+scratch_*.py
+scratch_*.sh
+scratch/
+outputs/
