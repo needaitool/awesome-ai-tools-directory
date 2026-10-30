@@ -38,7 +38,7 @@ Autonomous AI agents capable of multi-step planning, tool-calling, web browsing,
 | **[LangChain](https://www.langchain.com)** | Agent Framework | Open Source | Building context-aware multi-agent applications & chains | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[CrewAI](https://www.crewai.com)** | Multi-Agent System | Open Source / Freemium | Orchestrating autonomous role-playing AI agent crews | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[Dify.AI](https://dify.ai)** | Agent Platform | Open Source / SaaS | Visual LLM application & agent workflow development | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
-| **[Aident Loadout](https://aident.ai)** | Agent Platform / MCP | Freemium | Connect any MCP client to 1,000+ apps and 400+ Skills through one setup | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[Aident Loadout](https://aident.ai)** | Agent Platform / MCP | Freemium | Connect any MCP client to 1,000+ apps and 400+ Skills through one setup | [View Aident on NeedAITool](https://www.needaitool.com/tools/aident-ai) |
 | **[AutoGPT](https://autogpt.co)** | Autonomous Agent | Open Source | Continuous goal-driven autonomous task execution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[Devin by Cognition](https://www.cognition.ai)** | Software Engineer Agent | Paid | End-to-end autonomous software development and PR resolution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 
@@ -131,14 +131,14 @@ Text-to-video generation, voice cloning, audio synthesis, and AI video editing.
 
 | Tool | Category | Pricing | Best For | Directory Profile |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Ideoy](https://ideoy.ai)** | Video Generation | Freemium | Remake viral videos 1:1 with AI | [Explore on NeedAITool](https://www.needaitool.com) |
 | **[ElevenLabs](https://elevenlabs.io)** | Voice AI & Synthesis | Freemium | Realistic voice cloning, multilingual TTS, low-latency conversational AI | [View ElevenLabs on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[HeyGen](https://www.heygen.com)** | AI Video Avatars | Freemium / Paid | Photorealistic synthetic presenters, multi-language video translation | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
+| **[Ideoy](https://ideoy.ai)** | Video Generation | Paid | Remake viral videos 1:1 with AI | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
 | **[Runway Gen-3 Alpha](https://runwayml.com)** | Generative Video | Freemium / Paid | Cinematic video diffusion, motion brush control, camera direction | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
 | **[Somora](https://somora.media/)** | AI Music Generation | Freemium | AI music and lyrics with a browser DAW free for registered users | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Suno](https://suno.com)** | AI Music Generation | Freemium | Full-length song composition with vocals and instrumentation | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Udio](https://www.udio.com)** | Music Synthesis | Freemium | High-fidelity studio music tracks across diverse genres | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
-| **[Workforce Wave](https://www.workforcewave.com)** | AI Voice Agents & Virtual Receptionists | Paid | 24/7 AI phone answering, appointment booking, lead capture, and call summaries for businesses | [Explore on NeedAITool](https://www.needaitool.com/categories/customer-service-ai) |
+| **[Workforce Wave](https://www.workforcewave.com)** | AI Voice Agents & Virtual Receptionists | Paid | 24/7 AI phone answering, appointment booking, lead capture, and call summaries for businesses | [View Workforce Wave on NeedAITool](https://www.needaitool.com/tools/workforce-wave) |
 
 👉 *Browse all [**Generative Video & Audio AI Tools on NeedAITool.com**](https://www.needaitool.com/categories/video-ai).*
 
