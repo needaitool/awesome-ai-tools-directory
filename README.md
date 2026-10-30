@@ -132,8 +132,9 @@ Text-to-video generation, voice cloning, audio synthesis, and AI video editing.
 | Tool | Category | Pricing | Best For | Directory Profile |
 | :--- | :--- | :--- | :--- | :--- |
 | **[ElevenLabs](https://elevenlabs.io)** | Voice AI & Synthesis | Freemium | Realistic voice cloning, multilingual TTS, low-latency conversational AI | [View ElevenLabs on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
-| **[Runway Gen-3 Alpha](https://runwayml.com)** | Generative Video | Freemium / Paid | Cinematic video diffusion, motion brush control, camera direction | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
 | **[HeyGen](https://www.heygen.com)** | AI Video Avatars | Freemium / Paid | Photorealistic synthetic presenters, multi-language video translation | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
+| **[Runway Gen-3 Alpha](https://runwayml.com)** | Generative Video | Freemium / Paid | Cinematic video diffusion, motion brush control, camera direction | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
+| **[Somora](https://somora.media/)** | AI Music Generation | Freemium | AI music and lyrics with a browser DAW free for registered users | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Suno](https://suno.com)** | AI Music Generation | Freemium | Full-length song composition with vocals and instrumentation | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Udio](https://www.udio.com)** | Music Synthesis | Freemium | High-fidelity studio music tracks across diverse genres | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 
