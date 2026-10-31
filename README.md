@@ -35,12 +35,13 @@ Autonomous AI agents capable of multi-step planning, tool-calling, web browsing,
 
 | Tool | Category | Pricing | Best For | Directory Profile |
 | :--- | :--- | :--- | :--- | :--- |
-| **[LangChain](https://www.langchain.com)** | Agent Framework | Open Source | Building context-aware multi-agent applications & chains | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
-| **[CrewAI](https://www.crewai.com)** | Multi-Agent System | Open Source / Freemium | Orchestrating autonomous role-playing AI agent crews | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
-| **[Dify.AI](https://dify.ai)** | Agent Platform | Open Source / SaaS | Visual LLM application & agent workflow development | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[agent-qa](https://vostride.com)** | Application Testing / MCP | Free local package; model fees extra | Web/mobile QA with memidex memory, validated self-improvement, and reviewable evidence | [Browse Agent AI tools](https://www.needaitool.com/categories/agent-ai) |
 | **[Aident Loadout](https://aident.ai)** | Agent Platform / MCP | Freemium | Connect any MCP client to 1,000+ apps and 400+ Skills through one setup | [View Aident on NeedAITool](https://www.needaitool.com/tools/aident-ai) |
 | **[AutoGPT](https://autogpt.co)** | Autonomous Agent | Open Source | Continuous goal-driven autonomous task execution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[CrewAI](https://www.crewai.com)** | Multi-Agent System | Open Source / Freemium | Orchestrating autonomous role-playing AI agent crews | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 | **[Devin by Cognition](https://www.cognition.ai)** | Software Engineer Agent | Paid | End-to-end autonomous software development and PR resolution | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[Dify.AI](https://dify.ai)** | Agent Platform | Open Source / SaaS | Visual LLM application & agent workflow development | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
+| **[LangChain](https://www.langchain.com)** | Agent Framework | Open Source | Building context-aware multi-agent applications & chains | [Explore on NeedAITool](https://www.needaitool.com/categories/agent-ai) |
 
 👉 *Browse all [**Top Agent AI Tools & Frameworks on NeedAITool.com**](https://www.needaitool.com/categories/agent-ai).*
 
