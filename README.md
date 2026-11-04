@@ -139,6 +139,8 @@ Text-to-video generation, voice cloning, audio synthesis, and AI video editing.
 | **[Suno](https://suno.com)** | AI Music Generation | Freemium | Full-length song composition with vocals and instrumentation | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Udio](https://www.udio.com)** | Music Synthesis | Freemium | High-fidelity studio music tracks across diverse genres | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Workforce Wave](https://www.workforcewave.com)** | AI Voice Agents & Virtual Receptionists | Paid | 24/7 AI phone answering, appointment booking, lead capture, and call summaries for businesses | [View Workforce Wave on NeedAITool](https://www.needaitool.com/tools/workforce-wave) |
+| **[Cyanvid](https://cyanvid.com/?utm_source=github-needaitool-awesome-ai-tools-directory&utm_medium=directory&utm_campaign=backlinks)** | Video Generation | Freemium | Text/image to video with exact credit quotes | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
+| **[Barz Studio](https://barzvideo.com/?utm_source=github-needaitool-awesome-ai-tools-directory&utm_medium=directory&utm_campaign=backlinks)** | Video Editing | Freemium | Free browser rap lyric video maker — you bring the track | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
 
 👉 *Browse all [**Generative Video & Audio AI Tools on NeedAITool.com**](https://www.needaitool.com/categories/video-ai).*
 
