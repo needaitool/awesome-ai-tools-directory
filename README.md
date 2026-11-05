@@ -178,6 +178,7 @@ AI meeting transcription, intelligent calendar scheduling, and structured knowle
 
 | Tool | Category | Pricing | Best For | Directory Profile |
 | :--- | :--- | :--- | :--- | :--- |
+| **[AUTOMATER.ai](https://automater.ai)** | AI Coding Session Tracker | Freemium | One searchable library of AI coding sessions, waiting-agent alerts and usage across 9 providers | [Explore on NeedAITool](https://www.needaitool.com) |
 | **[Granola](https://www.granola.so)** | AI Meeting Notes | Freemium | Natural human-in-the-loop meeting notes without annoying recording bots | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
 | **[Notion AI](https://www.notion.so)** | Workspace AI | Paid Add-on | Q&A across workspace docs, automatic summarization, project roadmaps | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
 | **[Superhuman AI](https://superhuman.com)** | Email Assistant | Paid | Instant email triage, auto-drafted replies, one-key inbox zero | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
