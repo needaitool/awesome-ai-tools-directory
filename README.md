@@ -118,6 +118,7 @@ Fact-checked web search engines and academic literature discovery platforms.
 | :--- | :--- | :--- | :--- | :--- |
 | **[Perplexity AI](https://www.perplexity.ai)** | AI Search Engine | Freemium / Pro | Fast web search with verifiable inline citations & Pro Search | [View Perplexity on NeedAITool](https://www.needaitool.com/categories/research-ai) |
 | **[Consensus](https://consensus.app)** | Academic Research | Freemium | Querying 200M+ peer-reviewed scientific papers | [Explore on NeedAITool](https://www.needaitool.com/categories/research-ai) |
+| **[DisconfirmAI](https://disconfirmai.com/en)** | Investment Research | Freemium | AI investment research that looks for disconfirming evidence before you form a conviction | [Explore on NeedAITool](https://www.needaitool.com/categories/research-ai) |
 | **[Elicit](https://elicit.com)** | Research Assistant | Freemium | Extracting structured data from research papers and meta-analyses | [Explore on NeedAITool](https://www.needaitool.com/categories/research-ai) |
 | **[NotebookLM](https://notebooklm.google.com)** | Source-Grounded Notebook | Free | Grounded PDF/document synthesis and conversational audio overviews | [Explore on NeedAITool](https://www.needaitool.com/categories/research-ai) |
 
