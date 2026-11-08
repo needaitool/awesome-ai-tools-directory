@@ -180,6 +180,7 @@ AI meeting transcription, intelligent calendar scheduling, and structured knowle
 | :--- | :--- | :--- | :--- | :--- |
 | **[Granola](https://www.granola.so)** | AI Meeting Notes | Freemium | Natural human-in-the-loop meeting notes without annoying recording bots | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
 | **[Notion AI](https://www.notion.so)** | Workspace AI | Paid Add-on | Q&A across workspace docs, automatic summarization, project roadmaps | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
+| **[ORANO](https://oranoai.com)** | AI Knowledge Management | Freemium | Searchable summaries and step-by-step plans from saved videos and articles | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
 | **[Superhuman AI](https://superhuman.com)** | Email Assistant | Paid | Instant email triage, auto-drafted replies, one-key inbox zero | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
 | **[Motion](https://www.usemotion.com)** | AI Calendar & Tasks | Paid | Auto-scheduling tasks, calendar conflict resolution, team capacity | [Explore on NeedAITool](https://www.needaitool.com/categories/productivity-ai) |
 
