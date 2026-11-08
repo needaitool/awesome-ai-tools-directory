@@ -134,6 +134,7 @@ Text-to-video generation, voice cloning, audio synthesis, and AI video editing.
 | **[ElevenLabs](https://elevenlabs.io)** | Voice AI & Synthesis | Freemium | Realistic voice cloning, multilingual TTS, low-latency conversational AI | [View ElevenLabs on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[HeyGen](https://www.heygen.com)** | AI Video Avatars | Freemium / Paid | Photorealistic synthetic presenters, multi-language video translation | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
 | **[Ideoy](https://ideoy.ai)** | Video Generation | Paid | Remake viral videos 1:1 with AI | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
+| **[ReelAI](https://tryreelai.com/)** | Video Generation | Paid | Turn photos into short videos using preset effects | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
 | **[Runway Gen-3 Alpha](https://runwayml.com)** | Generative Video | Freemium / Paid | Cinematic video diffusion, motion brush control, camera direction | [Explore on NeedAITool](https://www.needaitool.com/categories/video-ai) |
 | **[Somora](https://somora.media/)** | AI Music Generation | Freemium | AI music and lyrics with a browser DAW free for registered users | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Suno](https://suno.com)** | AI Music Generation | Freemium | Full-length song composition with vocals and instrumentation | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
