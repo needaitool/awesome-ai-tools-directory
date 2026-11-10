@@ -139,6 +139,7 @@ Text-to-video generation, voice cloning, audio synthesis, and AI video editing.
 | **[Suno](https://suno.com)** | AI Music Generation | Freemium | Full-length song composition with vocals and instrumentation | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Udio](https://www.udio.com)** | Music Synthesis | Freemium | High-fidelity studio music tracks across diverse genres | [Explore on NeedAITool](https://www.needaitool.com/categories/audio-ai) |
 | **[Workforce Wave](https://www.workforcewave.com)** | AI Voice Agents & Virtual Receptionists | Paid | 24/7 AI phone answering, appointment booking, lead capture, and call summaries for businesses | [View Workforce Wave on NeedAITool](https://www.needaitool.com/tools/workforce-wave) |
+| **[Imagera](https://imagera.ai)** | Video & Image Generation | Paid | Many video and image models side by side, voice and music, consistent characters and products | [Explore on NeedAITool](https://www.needaitool.com) |
 
 👉 *Browse all [**Generative Video & Audio AI Tools on NeedAITool.com**](https://www.needaitool.com/categories/video-ai).*
 
